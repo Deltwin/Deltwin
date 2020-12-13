@@ -16,7 +16,7 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 <h1 align="center">Hello everyone!</h1>
 
-## I'm Deltwin <img src="https://raw.githubusercontent.com/Deltwin/Deltwin/master/WaveIcon.gif" width="30px">
+## I'm Deltwin <img src="https://raw.githubusercontent.com/Deltwin/Deltwin/master/halohal.gif" width="30px">
 
 ```
 const RandomThingsAboutMe = {
