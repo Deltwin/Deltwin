@@ -18,7 +18,7 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ## I'm Deltwin <img src="https://raw.githubusercontent.com/Deltwin/Deltwin/master/halohal.gif" width="30px">
 
-```
+```js
 const RandomThingsAboutMe = {
   languages: ["JavaScript", "HTML", "CSS", "PHP"],
   favouriteLanguage: JS,
