@@ -20,7 +20,7 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ```js
 const RandomThingsAboutMe = {
-  languages: ["JavaScript", "HTML", "CSS", "PHP"],
+  languages: ["C#", "HTML", "CSS", "PHP", "Java"],
   favouriteLanguage: JS,
   CEO: [
     {
