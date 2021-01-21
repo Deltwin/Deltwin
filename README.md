@@ -20,8 +20,8 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ```js
 const RandomThingsAboutMe = {
-  languages: ["C#", "HTML", "CSS", "PHP", "Java"],
-  favouriteLanguage: JS,
+  languages: ["C#", "HTML", "CSS", "PHP", "Java", "JS"],
+  favouriteLanguage: C#,
   BEST REPO: [
     {
       name: "DCSB",
