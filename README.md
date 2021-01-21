@@ -25,7 +25,7 @@ const RandomThingsAboutMe = {
   CEO: [
     {
       name: "DeltCraft",
-      url: "https://manageofficial.altervista.org/site/"
+      url: "https://manageofficial.altervista.org/Files/Builds/"
     }
   ]
 };
