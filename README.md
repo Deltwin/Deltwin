@@ -22,9 +22,9 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 const RandomThingsAboutMe = {
   languages: ["C#", "HTML", "CSS", "PHP", "Java"],
   favouriteLanguage: JS,
-  CEO: [
+  BEST REPO: [
     {
-      name: "DeltCraft",
+      name: "DCSB",
       url: "https://manageofficial.altervista.org/Files/Builds/"
     }
   ]
