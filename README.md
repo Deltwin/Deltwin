@@ -46,9 +46,8 @@ src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deltwin&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deltwin&theme=tokyonight&hide=batchfile">
 </details>
 
-<details>
-  <summary>I am a professional developer, if you need information: <a href="https://t.me/DeItwin">Telegram</a></summary>
-</details>
+<summary>I am a professional developer, if you need information: <a href="https://t.me/DeItwin">Telegram</a></summary>
+
 
 <!-- 
 BTW plz don't copy this
