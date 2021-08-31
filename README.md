@@ -20,12 +20,12 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ```js
 const RandomThingsAboutMe = {
-  languages: ["C#", "HTML", "CSS", "PHP", "Java", "JS"],
-  favouriteLanguage: C#,
-  BEST REPO: [
+  languages: ["Java", "HTML", "C#", "PHP", "Python", "C/C++"],
+  favouriteLanguage: Java/PHP,
+  MY WEBSITE: [
     {
-      name: "DCSB",
-      url: "https://manageofficial.altervista.org/Files/Builds/"
+      name: "Deltwin",
+      url: "https://deltwin.com"
     }
   ]
 };
