@@ -18,18 +18,6 @@ THIS IS VIOLATED COPYRIGHT 911!!!!
 
 ## I'm Deltwin <img src="https://raw.githubusercontent.com/Deltwin/Deltwin/master/halohal.gif" width="30px">
 
-```js
-const RandomThingsAboutMe = {
-  languages: ["Java", "HTML", "C#", "PHP", "Python", "C/C++"],
-  favouriteLanguage: Java/PHP,
-  MY WEBSITE: [
-    {
-      name: "Deltwin",
-      url: "https://deltwin.com"
-    }
-  ]
-};
-```
 ![Profile Views](https://komarev.com/ghpvc/?username=Deltwin&color=blueviolet)
 
 <!--
@@ -39,7 +27,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg"
 src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" width="40px">
 -->
 
-## HUH! You wanna know my stats? 🤔
+## My Stats 🤔
 <div align="center"><img src="https://github-profile-trophy.vercel.app/?username=Deltwin&theme=dracula"></div>
 
 <details>
@@ -47,9 +35,7 @@ src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Deltwin&theme=tokyonight"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deltwin&theme=tokyonight&hide=batchfile">
 </details>
 
-<summary>I am a professional developer, if you need information: <a href="https://t.me/DeItwin">Telegram</a></summary>
-
-
 <!-- 
-BTW plz don't copy this
+  Nope, don't copy this.
+  I'm not going to anymore do commissions.
 -->
